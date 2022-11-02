@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Html,css,javascript,express.js,mongoDB,React,API,C++/C**
 
-- 📫 How to reach me **mdzeeshan5857@gmail.com**
+- 📫 How to reach me **mdzeeshan5875@gmail.com**
 
 - ⚡ Fun fact **Tea is better than Coffee**
 
