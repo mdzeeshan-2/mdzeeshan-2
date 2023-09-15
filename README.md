@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mdzeesh42880894" target="blank"><img src="https://img.shields.io/twitter/follow/@mdzeesh42880894?logo=twitter&style=for-the-badge" alt="@mdzeesh42880894" /></a> </p>
 
-- 🔭 I’m currently working on **REACT and Lord 'DSA'**
+- 🔭 I’m currently working as an SDE Intern in **Essentially AI**
 
 - 🌱 I’m currently learning **DSA-Next.js-ReactNative-Life**
 
