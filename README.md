@@ -6,7 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzeeshan-2" alt="mdzeeshan-2" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@mdzeesh42880894" target="blank"><img src="https://img.shields.io/twitter/follow/@mdzeesh42880894?logo=twitter&style=for-the-badge" alt="@mdzeesh42880894" /></a> </p>
-- 🔭 SDE Intern in SMIIT CYBERAI London
+- 🔭 System Engineer in TCS
+
+- 🔭 Ex-SDE Intern in SMIIT CYBERAI London
 
 - 🔭 Ex-SDE Intern in **Essentially AI**
 
